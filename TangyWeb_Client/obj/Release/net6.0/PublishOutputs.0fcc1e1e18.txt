@@ -1,0 +1,1 @@
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\TangyWeb_Client\obj\Release\net6.0\browser-wasm\PubTmp\Out\web.config

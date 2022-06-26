@@ -1,0 +1,18 @@
+﻿<div>
+    <h4 class="text-primary pt-3">_AnotherChildComponent</h4>
+    <input id="nametemp" @attributes="InputAttributes" />
+</div>
+
+@code {
+    //[Parameter]
+    //public string Placeholder { get; set; } = "Initial Text";
+    //[Parameter]
+    //public string Required { get; set; } = "required";
+    //[Parameter]
+    //public string MaxLenght { get; set; } = "10";
+    /// <summary>
+    /// Attribute Splatting
+    /// </summary>
+    [Parameter(CaptureUnmatchedValues = true)]
+    public Dictionary<string, object> InputAttributes { get; set; } = new Dictionary<string, object>();
+}

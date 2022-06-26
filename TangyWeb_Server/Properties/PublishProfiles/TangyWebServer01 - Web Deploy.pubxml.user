@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA7nk53Tyc9UyH2SheHwQmdQAAAAACAAAAAAADZgAAwAAAABAAAACQGR2M4nSmE3wRCBFMyokUAAAAAASAAACgAAAAEAAAAI3mk3Ihcg7yqAaP28LziEqAAAAAgZEig0s1pOxWSSvSQE9cy8hRfnLlm9qic+dEhLncV9RPaJ5ajMzpCbNANVLa663cHJDVrkMr92rGzGgDqrRbEDg0RF9raQktau40ZziMfOZoevYQL2tyA+tf4ioHEkN2ocMBXUvrCaBuODpsbC2fZO3+Z1b8+YTvQd0ZtlhZ9ycUAAAA4Rkccf7lqt0WPtZQdXQ+WgcoOKM=</EncryptedPassword>
+    <History>True|2022-06-26T02:25:27.9747683Z;True|2022-06-25T16:53:10.8714526-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:tangyblazor01.database.windows.net,1433%3bInitial Catalog=tangyblazor%3bPersist Security Info=False%3bUser ID=adminuser%3bPassword=zScrQz5M^0yuv%401IDbd%40^^6KYF504%249Y%2aFq%2aFO%25s&amp;MH7%253v!sp#^eEwkP^%40a13!PiAkBfa09I32SS0Uf#Aeuiq3hX6Xf%40uNTKeu%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="TangyWebClient01" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\pedro\.fleming\\Desktop\\ASP\ \.NET\\ASP\.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_Client\\obj\\Release\\net6\.0\\browser-wasm\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

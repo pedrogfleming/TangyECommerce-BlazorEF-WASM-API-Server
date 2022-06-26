@@ -1,0 +1,14 @@
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\bin\Release\net6.0\Tangy_DataAccess.deps.json
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\bin\Release\net6.0\Tangy_DataAccess.runtimeconfig.json
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\bin\Release\net6.0\Tangy_DataAccess.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\bin\Release\net6.0\Tangy_DataAccess.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.csproj.AssemblyReference.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.AssemblyInfoInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.AssemblyInfo.cs
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\refint\Tangy_DataAccess.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\Tangy_DataAccess.genruntimeconfig.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_DataAccess\obj\Release\net6.0\ref\Tangy_DataAccess.dll

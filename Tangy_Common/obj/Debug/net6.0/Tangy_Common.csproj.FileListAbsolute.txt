@@ -1,0 +1,12 @@
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\bin\Debug\net6.0\Tangy_Common.deps.json
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\bin\Debug\net6.0\Tangy_Common.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\bin\Debug\net6.0\Tangy_Common.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.csproj.AssemblyReference.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.AssemblyInfoInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.AssemblyInfo.cs
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.csproj.CoreCompileInputs.cache
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\refint\Tangy_Common.dll
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\Tangy_Common.pdb
+C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Common\obj\Debug\net6.0\ref\Tangy_Common.dll
