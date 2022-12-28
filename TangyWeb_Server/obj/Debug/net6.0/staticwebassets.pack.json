@@ -1,0 +1,133 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\TangyWeb_Server.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TangyWeb_Server.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\16bc737b-b9ab-46ab-96ec-ae0d1c3fbcde.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\16bc737b-b9ab-46ab-96ec-ae0d1c3fbcde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\1bb5ed4a-0179-4ce7-9eca-40d99479ee11.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\1bb5ed4a-0179-4ce7-9eca-40d99479ee11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\6a16839e-a6d1-47d7-b738-f8ae9b6af44e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6a16839e-a6d1-47d7-b738-f8ae9b6af44e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\774b8179-ede5-4ddd-8d57-3241e14197c2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\774b8179-ede5-4ddd-8d57-3241e14197c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\7a90959c-25f1-4781-8d07-0e19263093b7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7a90959c-25f1-4781-8d07-0e19263093b7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\98b0f3e2-bd8f-4e2e-adf5-f56a8d6676b6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\98b0f3e2-bd8f-4e2e-adf5-f56a8d6676b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\98f09f99-0cb3-4386-bd0d-7141b59b98e0.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\98f09f99-0cb3-4386-bd0d-7141b59b98e0.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\abcc5bc0-2783-460e-a072-b410d37dda3e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\abcc5bc0-2783-460e-a072-b410d37dda3e.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\dab87c9e-c4de-46c6-899f-ddb38dc55c6a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dab87c9e-c4de-46c6-899f-ddb38dc55c6a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\dc9b51f1-4b2e-4eac-8e0b-63fd9bc69d31.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dc9b51f1-4b2e-4eac-8e0b-63fd9bc69d31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\default.png",
+      "PackagePath": "staticwebassets\\images\\product\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\images\\product\\edcd5c7b-42d2-4d56-93ac-4eff4880bd60.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\edcd5c7b-42d2-4d56-93ac-4eff4880bd60.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_Server\\wwwroot\\js\\common.js",
+      "PackagePath": "staticwebassets\\js\\common.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.TangyWeb_Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.TangyWeb_Server.props",
+      "PackagePath": "build\\TangyWeb_Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.TangyWeb_Server.props",
+      "PackagePath": "buildMultiTargeting\\TangyWeb_Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.TangyWeb_Server.props",
+      "PackagePath": "buildTransitive\\TangyWeb_Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

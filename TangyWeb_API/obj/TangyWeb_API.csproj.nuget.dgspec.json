@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_API\\TangyWeb_API.csproj": {}
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_API\\TangyWeb_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_API\\TangyWeb_API.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_API\\TangyWeb_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_API\\TangyWeb_API.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_API\\TangyWeb_API.csproj",
         "projectName": "TangyWeb_API",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_API\\TangyWeb_API.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\TangyWeb_API\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_API\\TangyWeb_API.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\TangyWeb_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\Tangy_Business.csproj": {
-                "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\Tangy_Business.csproj"
+              "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\Tangy_Business.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\Tangy_Business.csproj"
               },
-              "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj"
+              "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj"
               }
             }
           }
@@ -86,7 +86,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -98,21 +99,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\Tangy_Business.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\Tangy_Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\Tangy_Business.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\Tangy_Business.csproj",
         "projectName": "Tangy_Business",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\Tangy_Business.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Business\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\Tangy_Business.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -126,14 +127,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {
-                "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj"
+              "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj"
               },
-              "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
-                "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj"
+              "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj"
               },
-              "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj": {
-                "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj"
+              "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\Tangy_Models.csproj": {
+                "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\Tangy_Models.csproj"
               }
             }
           }
@@ -163,7 +164,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -172,21 +174,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj",
         "projectName": "Tangy_Common",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -217,7 +219,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -226,21 +229,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj",
         "projectName": "Tangy_DataAccess",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\Tangy_DataAccess.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\Tangy_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -295,7 +298,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -304,21 +308,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\Tangy_Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\Tangy_Models.csproj",
         "projectName": "Tangy_Models",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\Tangy_Models.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Models\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\Tangy_Models.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -349,7 +353,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -358,7 +363,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

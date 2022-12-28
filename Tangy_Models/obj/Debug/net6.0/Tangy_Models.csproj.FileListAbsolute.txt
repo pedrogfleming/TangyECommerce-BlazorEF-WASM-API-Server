@@ -22,3 +22,15 @@ C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Models\obj\Debug\net6.0\refint\Tangy_Models.dll
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Models\obj\Debug\net6.0\Tangy_Models.pdb
 C:\Users\pedro.fleming\Desktop\ASP .NET\ASP.NET\EntityFramerwork\TangyWeb\Server\Tangy\Tangy_Models\obj\Debug\net6.0\ref\Tangy_Models.dll
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\bin\Debug\net6.0\Tangy_Models.deps.json
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\bin\Debug\net6.0\Tangy_Models.dll
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\bin\Debug\net6.0\Tangy_Models.pdb
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.AssemblyInfo.cs
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.dll
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\refint\Tangy_Models.dll
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\Tangy_Models.pdb
+C:\Users\pedro\source\repos\TangyECommerce-BlazorEF-WASM-API-Server\Tangy_Models\obj\Debug\net6.0\ref\Tangy_Models.dll

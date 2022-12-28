@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {}
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj": {
+    "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj",
+        "projectUniqueName": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj",
         "projectName": "Tangy_Common",
-        "projectPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\Tangy_Common.csproj",
-        "packagesPath": "C:\\Users\\pedro.fleming\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pedro.fleming\\Desktop\\ASP .NET\\ASP.NET\\EntityFramerwork\\TangyWeb\\Server\\Tangy\\Tangy_Common\\obj\\",
+        "projectPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\Tangy_Common.csproj",
+        "packagesPath": "C:\\Users\\pedro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pedro\\source\\repos\\TangyECommerce-BlazorEF-WASM-API-Server\\Tangy_Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pedro.fleming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,7 +45,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -54,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

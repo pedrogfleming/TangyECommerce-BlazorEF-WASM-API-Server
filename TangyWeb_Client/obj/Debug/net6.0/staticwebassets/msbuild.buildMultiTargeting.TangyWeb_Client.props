@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TangyWeb_Client.props" />
+</Project>
